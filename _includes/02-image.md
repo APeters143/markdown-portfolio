@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Jodorowsky's Dune Poster](https://pics.filmaffinity.com/Jodorowsky_s_Dune-153803568-large.jpg)
